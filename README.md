@@ -18,3 +18,8 @@ What I'm Working On
 ​Documenting lab experiments, mini-projects, and coursework clearly in public repositories.
 
 ​Collaborating with peers on team builds, technical reports, and practical prototypes.
+
+​🌐 Connect With Me
+​🐙 GitHub: github.com/Yagyamitra-Gade 
+​💼 LinkedIn: linkedin.com/in/your-profile
+​📧 Email: yagyamitrag@gmail.com 
