@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm [YAGYAMITRA GADE]
 
-<!--
-**Yagyamitra-Gade/Yagyamitra-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​B.Tech CSE (AI & ML) Student | Building intelligent systems, clean code, and practical engineering projects.
 
-Here are some ideas to get you started:
+​About Me
+​Pursuing B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+​Focusing on core computer science fundamentals alongside machine learning, data structures, and applied systems
+
+​Enjoy turning theoretical algorithms and hardware/software experiments into working projects.
+
+Languages - C++, Python, SQL.
+Hardware & Lab Arduino UNO, ESP32, Tinkercad, Git & GitHub. 
+
+What I'm Working On
+​Strengthening problem-solving speed and clean modular design in C++ and Python.
+
+​Documenting lab experiments, mini-projects, and coursework clearly in public repositories.
+
+​Collaborating with peers on team builds, technical reports, and practical prototypes.
