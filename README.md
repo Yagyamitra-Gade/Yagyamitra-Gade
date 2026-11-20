@@ -12,7 +12,8 @@ Hi 👋 I'm [YAGYAMITRA GADE]
 Languages - C++, Python, SQL.
 Hardware & Lab Arduino UNO, ESP32, Tinkercad, Git & GitHub. 
 
-What I'm Working On
+What I'm Working On 📌
+
 ​Strengthening problem-solving speed and clean modular design in C++ and Python.
 
 ​Documenting lab experiments, mini-projects, and coursework clearly in public repositories.
