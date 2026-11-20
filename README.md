@@ -1,11 +1,11 @@
-Hi, I'm [YAGYAMITRA GADE]
+Hi 👋 I'm [YAGYAMITRA GADE]
 
-​B.Tech CSE (AI & ML) Student | Building intelligent systems, clean code, and practical engineering projects.
+🎓 ​B.Tech CSE (AI & ML) Student | Building intelligent systems, clean code, and practical engineering projects.
 
-​About Me
+👨‍💻 ​About Me
 ​Pursuing B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-​Focusing on core computer science fundamentals alongside machine learning, data structures, and applied systems
+🎯 ​Focusing on core computer science fundamentals alongside machine learning, data structures, and applied systems
 
 ​Enjoy turning theoretical algorithms and hardware/software experiments into working projects.
 
